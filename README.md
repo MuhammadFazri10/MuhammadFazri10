@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadFazri10
 - 👀 I’m interested in FULL STACK DEVELOPER
-- 🌱 I’m currently learning LARAVEL AND REACT JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning FULLSTACK JS
+- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
